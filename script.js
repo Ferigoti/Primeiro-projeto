@@ -12,7 +12,7 @@ function togglemode() {
     img.setAttribute("alt", "foto de joão de camisa branca olhando pro nada")
   } else {
     // se tiver sem light mode, manter a imagem normal
-    img.setAttribute("src", "./assets/Avatar1.png")
+    img.setAttribute("src", "./assets/avatar1.png")
     img.setAttribute("alt", "foto de joão com cara de bravo dando belezinha")
   }
 }
