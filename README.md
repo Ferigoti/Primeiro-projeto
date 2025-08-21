@@ -4,7 +4,7 @@ Este é o meu cartão de visitas digital, criado para compartilhar meus principa
 
 ### Acesse o meu Cartão de Visitas
 
-- **Link:** [Visite o meu cartão de visitas](https://SEU_USUARIO.github.io/SEU_NOVO_NOME/)
+- **Link:** [Visite o meu cartão de visitas](https://ferigoti.github.io/ferigoti-dev/)
 
 ### Sobre o Projeto
 
